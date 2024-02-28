@@ -1,7 +1,16 @@
+using Practica2WEB.Models;
+using Practica2WEB.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddSession();
+builder.Services.AddHttpClient();
+
+//ADD INTERFACES
+builder.Services.AddSingleton<IVendedorModel, VendedorModel>();
 
 var app = builder.Build();
 

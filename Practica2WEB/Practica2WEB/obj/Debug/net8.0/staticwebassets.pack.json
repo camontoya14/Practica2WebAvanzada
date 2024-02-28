@@ -1,0 +1,665 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Practica2WEB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Practica2WEB.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\lib\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\lib\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar04.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\lib\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\lib\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\lib\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\lib\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\lib\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\lib\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\lib\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\lib\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\lib\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\lib\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\lib\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery\\core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\lib\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\lib\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fidelitas\\source\\repos\\Practica2PrograAvanzada\\Practica2WEB\\Practica2WEB\\wwwroot\\lib\\js\\demo.js",
+      "PackagePath": "staticwebassets\\lib\\js\\demo.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Practica2WEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Practica2WEB.props",
+      "PackagePath": "build\\Practica2WEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Practica2WEB.props",
+      "PackagePath": "buildMultiTargeting\\Practica2WEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Practica2WEB.props",
+      "PackagePath": "buildTransitive\\Practica2WEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

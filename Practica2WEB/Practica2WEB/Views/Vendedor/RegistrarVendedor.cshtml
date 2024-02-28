@@ -1,0 +1,58 @@
+﻿@model Practica2WEB.Entidades.Vendedor
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="hold-transition register-page">
+    <div class="register-box">
+
+        <div class="card">
+            <div class="card-body register-card-body">
+                <p class="login-box-msg">Registro de usuarios</p>
+
+                @using (Html.BeginForm("RegistrarVendedor", "Vendedor", FormMethod.Post))
+                {
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.Correo, new { @class = "form-control", @placeholder = "Correo Electrónico", @type = "Email", @required = "true" })
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-user"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.NombreVendedor, new { @class = "form-control", @placeholder = "Nombre", @required = "true" })
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-envelope"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.Cedula, new { @class = "form-control", @placeholder = "Cedula", @required = "true" })
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    @if (ViewBag.MsjPantalla != null)
+                    {
+                        <div class="alert alert-warning" role="alert" style="text-align:center">
+                            @ViewBag.MsjPantalla
+                        </div>
+                    }
+
+                    <div class="row">
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary btn-block">Procesar</button>
+                        </div>
+                    </div>
+                }
+
+                
+            </div>
+        </div>
+    </div>
+</div>
