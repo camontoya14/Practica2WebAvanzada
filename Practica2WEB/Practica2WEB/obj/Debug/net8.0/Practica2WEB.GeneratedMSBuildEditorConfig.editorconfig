@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/fidelitas/source/repos/Practica2PrograAvanzada/Practica2WEB/Practica2WEB/Views/Vehiculo/RegistrarVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cUmVnaXN0cmFyVmVoaWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fidelitas/source/repos/Practica2PrograAvanzada/Practica2WEB/Practica2WEB/Views/Vendedor/RegistrarVendedor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3JcUmVnaXN0cmFyVmVuZGVkb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

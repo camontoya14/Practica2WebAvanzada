@@ -1,0 +1,81 @@
+﻿@model Practica2WEB.Entidades.Vehiculo
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="hold-transition register-page">
+    <div class="register-box">
+
+        <div class="card">
+            <div class="card-body register-card-body">
+                <p class="login-box-msg">Registro de Vehiculos</p>
+
+                @using (Html.BeginForm("RegistrarVehiculo", "Vehiculo", FormMethod.Post))
+                {
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.Marca, new { @class = "form-control", @placeholder = "Marca", @required = "true" })
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-user"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.Modelo, new { @class = "form-control", @placeholder = "Modelo", @required = "true" })
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-envelope"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.Color, new { @class = "form-control", @placeholder = "Color", @required = "true" })
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.Precio, new { @class = "form-control", @placeholder = "Precio", @required = "true" })
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                       <div class="col-11">
+                            <label for="IdVendedor">Nombre del vendedor</label>
+
+                            <select id="vendedor" name="IdVendedor">
+                                @foreach (var vendedor in ViewBag.Vendedores)
+                                {
+                                    <option value="@vendedor.IdVendedor">@vendedor.Nombre</option>
+                                }
+                            </select>
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    @if (ViewBag.MsjPantalla != null)
+                    {
+                        <div class="alert alert-warning" role="alert" style="text-align:center">
+                            @ViewBag.MsjPantalla
+                        </div>
+                    }
+
+                    <div class="row">
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary btn-block">Procesar</button>
+                        </div>
+                    </div>
+                }
+                               
+            </div>
+        </div>
+    </div>
+</div>

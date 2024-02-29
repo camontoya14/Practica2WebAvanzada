@@ -28,7 +28,7 @@ namespace Practica2WEB.Controllers
                 return RedirectToAction("Index", "Home");
             else
             {
-                ViewBag.MsjPantalla = resp?.Mensaje;
+                ViewBag.MsjPantallla = resp?.Mensaje;
                 return View();
             }
         }

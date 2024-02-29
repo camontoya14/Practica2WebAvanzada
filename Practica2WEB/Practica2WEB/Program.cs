@@ -11,6 +11,7 @@ builder.Services.AddHttpClient();
 
 //ADD INTERFACES
 builder.Services.AddSingleton<IVendedorModel, VendedorModel>();
+builder.Services.AddSingleton<IVehiculoModel, VehiculoModel>();
 
 var app = builder.Build();
 

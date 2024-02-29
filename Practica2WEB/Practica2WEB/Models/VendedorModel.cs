@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Extensions.Configuration;
 using Practica2WEB.Entidades;
 using Practica2WEB.Services;
 using static System.Net.WebRequestMethods;
@@ -19,5 +20,20 @@ namespace Practica2WEB.Models
             return null;
         }
 
+        public Vendedor? ConsultarVendedores()
+        {
+            using (var client = new HttpClient())
+            {
+                string url = _configuration.GetSection("settings:UrlApi").Value + "api/Vendedor/ConsultarVendedores";
+                var resp = client.GetAsync(url).Result;
+
+
+                if (resp.IsSuccessStatusCode)
+                    return resp.Content.ReadFromJsonAsync<Vendedor>().Result;
+
+                return null;
+
+            }
+        }
     }
 }
